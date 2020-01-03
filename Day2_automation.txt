@@ -1,0 +1,37 @@
+simultaneously learning and testing the product is called exploratory testing.
+
+why manual and automation?
+
+financial projects will go with automation like entering the catcha because they are generated while run time
+they can't be automated.
+
+functional testing is done by client screen.
+functional is done for 1 user performance is done for many users.
+
+performance Engineering means finding the route cause and increase RAM, memory lik these things.
+
+WSDL --web services description language
+SOA -- service oriented architecture is a middle layer in architecture
+
+IN SOA the request data is converted into a xml format
+
+SOA is a non UI testing
+SOAPUI is a popular testing tool to check the middle layer
+
+Jmeter is a free tool for performance
+
+Bugjilla is a tool for defect tracking pen source
+ static testing is performed before executing.
+
+
+----------------------------------------------------WEB DRIVER-------------------------------------------------------
+
+chrome and  chrome driver file should be same version
+1. selenium stand alone jar file
+2 . chrome web driver
+3. geckodriver all are updated only we need to check this
+
+ 
+
+
+
